@@ -4,7 +4,7 @@ Current nuclear energy uses heat to boil water and driver turbines which then ge
 
 Beta radiation skips the heat, boiling, water expansion and electricity induction by turbine. Supersonductive casing will be used to carry ejected electrons from a radioative source to functioning power grids.
 
-The radioisotope thermoelectric generator uses the seabeck effect to gain electrons from heat. This design plans to capture electrons directly from reactor to current through use of electron absorbtion into a power grid.
+A similar device, the radioisotope thermoelectric generator uses the seabeck effect to gain electrons from heat. This design plans to capture electrons directly from a fuel via electron absorbtion into a conductive power grid.
 
 
 Decay does not stop when power absorbtion stops.
